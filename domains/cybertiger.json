@@ -4,6 +4,7 @@
         "email": "cybertiger.info@gmail.com"
     },
     "records": {
-        "A": ["216.198.79.1"]
+        "A": ["216.198.79.1"],
+        "TXT": "dh=3f98af9c1e8c096681ae321a6ef73cd4319e9498"
     }
 }
